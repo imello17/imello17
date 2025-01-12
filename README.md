@@ -72,7 +72,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/imello17/imello17/output/snake.svg" alt="Snake animation" />
-
-###

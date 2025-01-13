@@ -13,7 +13,7 @@
 
 ###
 
-<p align="center">✨ Interests: Blockhain, Backend, AI and Algorithms<br>📚 Role: Computer Scientist<br>🎯 Goals: Become Ultron <br>🎲 Fun fact: we live in the now?</p>
+<p align="center">✨ Interests: Blockhain, Backend, AI and Algorithms<br>📚 Role: Computer Scientist<br>🎯 Goals: <br>🎲 Fun fact:</p>
 
 ###
 

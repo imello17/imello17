@@ -13,7 +13,7 @@
 
 ###
 
-<p align="center">✨ Interests: Blockhain, Backend, AI and Algorithms<br>📚 Role: Computer Scientist<br>🎯 Goals: To compile at first run <br>🎲 Fun fact: ...</p>
+<p align="center">✨ Interests: Blockhain, Backend, AI and Algorithms<br>📚 Role: Computer Scientist<br>🎯 Goals: To compile at first run <br>🎲 Fun fact: we live in the now?</p>
 
 ###
 
